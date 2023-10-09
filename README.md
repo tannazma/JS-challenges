@@ -1,4 +1,4 @@
-# JS-challenges: 65 Challenges to Learn & Practice Javascript + Answers
+# JS-challenges: 70 Challenges to Learn & Practice Javascript + Answers
 
 #1 Basic CalculatorÏ
 Define a function that takes two numbers as arguments and returns their sum.
